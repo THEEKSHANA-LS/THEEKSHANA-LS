@@ -3,7 +3,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana-ls&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana-ls" /> </p>
 <hr>
-- 🔭 I’m currently working on **Casual Club e-commerce web app**
+- 🔭 I’m currently working on Casual Club e-commerce web app
 
 - 🌱 I’m currently learning **MERN stack**
 
