@@ -1,3 +1,4 @@
+<img src="https://www.freepik.com/free-ai-image/cyber-security-expert-working-with-technology-neon-lights_236256755.htm#fromView=search&page=2&position=8&uuid=afea53cb-82bd-4f21-a910-69381fb80da9&query=web+developer+gif" align="center">
 <h1 align="center">Hi 👋, I'm Sandun Theekshana</h1>
 <h3 align="center">A passionate **MERN stack developer** from Sri Lanka 🇱🇰</h3>
 
