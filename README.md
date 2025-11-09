@@ -50,7 +50,7 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/in/ sandun-theekshana-2a4b682b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ sandun-theekshana-2a4b682b9" height="30" width="40" /></a>
+<a href="linkedin.com/in/sandun-theekshana-2a4b682b9" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
