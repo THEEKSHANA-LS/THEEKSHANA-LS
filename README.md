@@ -1,3 +1,4 @@
+<img href="https://iconscout.com/lottie-animation/web-development-animation_3645912" align="center">
 <h1 align="center">Hi 👋, I'm Sandun Theekshana</h1>
 <h3 align="center">A passionate MERN stack developer from Sri Lanka</h3>
 
