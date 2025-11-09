@@ -1,4 +1,4 @@
-<picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px align="center"></picture>
 <h1 align="center">Hi 👋, I'm Sandun Theekshana</h1>
 <h3 align="center">A passionate MERN stack developer from Sri Lanka</h3>
 <hr>
