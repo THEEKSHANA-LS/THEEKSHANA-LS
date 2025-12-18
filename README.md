@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Service Link Project**
 
-- 👨‍💻 All of my projects are available at [sandun-theekshana-portfolio.vercel.app](sandun-theekshana-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [sandun-theekshana-portfolio.vercel.app](https://sandun-theekshana-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, express, node, javascript, mongodb**
 
