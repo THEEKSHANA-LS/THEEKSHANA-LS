@@ -1,22 +1,19 @@
-<p align="center">
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture>
-</p>
 <h1 align="center">Hi 👋, I'm Sandun Theekshana</h1>
 <h3 align="center">A passionate MERN stack developer from Sri Lanka</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana-ls&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana-ls" /> </p>
 
-- 🔭 I’m currently working on **Casual Club e-commerce web app**
+- 🔭 I’m currently working on **Build Rental web app**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **News web app**
+- 👯 I’m looking to collaborate on **Service Link Project**
 
 - 👨‍💻 All of my projects are available at [sandun-theekshana-portfolio.vercel.app](sandun-theekshana-portfolio.vercel.app)
 
 - 💬 Ask me about **react, express, node, javascript, mongodb**
 
-- 📫 How to reach me **sanduntheekshana29@gmail.com**
+- 📫 How to reach me **sanduntheekshana27@gmail.com**
 <hr>
   <!--- stats & Trophy (start) -->
 <p align="center">
