@@ -46,7 +46,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,figma,github,html,java,js,mongodb,nodejs,postman,react,tailwind,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,express,figma,github,html,java,js,mongodb,nodejs,postman,react,tailwind,flutter,vscode,&perline=14" />
   </a>
 </p>
 <hr>
